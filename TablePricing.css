@@ -162,8 +162,8 @@ body {
     border-bottom: 1px solid #e1f1ff;
 }
 
-.pricing-plan:last-child {
-    border-bottom: none;
+.pricing-plan:last-child{ 
+    border-right: none; 
 }
 
 .pricing-img {
